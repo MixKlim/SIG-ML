@@ -1,8 +1,6 @@
-<p style="font-family: times, serif; font-size:11pt; font-style:bold">
-SIG Data & Analytics 15 september 2020:
+<font size="1"> SIG Data & Analytics 15 september 2020:</font>
 
 Machine Learning Practicum door Klim Mikhailov
-</p>
 
 Tijdens de vorige SIG Data & Analytics van 27-05-2020 heeft Thomas Nijman een uitgebreid overzicht van machine learning begrippen en zelflerende algoritmes met ons gedeeld. In deze SIG wil ik jullie laten ervaren hoe machine learning projecten en algoritmen in de praktijk eruitzien en werken. Tijdens dit interactieve ML Practicum leren we op een hands-on manier:
 
